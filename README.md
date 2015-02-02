@@ -1,4 +1,4 @@
-r-playground
+Snippets
 ============
 
-R explorations &amp; snippets
+Replace NAs with 0: `d[is.na(d)] <- 0`
